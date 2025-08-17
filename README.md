@@ -1,7 +1,7 @@
 # StealthMiner
 The StealthMiner S19/S21 retrofit enclosure project
 
-I'm going to wirk on more guides and information. for now injuts want to share this wotht he world.
+I'm going to work on more guides and information. For now I just want to share this with the world.
 
 I will never ask for anything in return. 
 
